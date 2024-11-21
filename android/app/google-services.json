@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054116855652",
+    "project_id": "chatbot-app-aa5ce",
+    "storage_bucket": "chatbot-app-aa5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054116855652:android:e9b197fb0a27f3b177c471",
+        "android_client_info": {
+          "package_name": "com.example.chatbot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjQnj2WsRq0PMRjnM5Nuyhk6rqcbHAtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
